@@ -1,6 +1,6 @@
 # Info201GroupProj
 
-## Check out our website on: https://yan530.shinyapps.io/Info201GroupProj/
+## Check out our website on: https://yananni0701.shinyapps.io/Info201GroupProj/
 
 ## Project Description
 __Data Set__ : Bechdel Tests of movies from [FiveThirtyEight](https://github.com/fivethirtyeight/f/blob/master/bechdel/movies.csv)
